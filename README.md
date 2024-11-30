@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:30.11.2024
+## Register Number:24007430
+## Name:V Spoorthi
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -11,15 +11,59 @@ Government of Gujarat
 
 ## Idea
 
+Innovative Features
+Alumni Career Marketplace:
+
+A "Hire and Get Hired" initiative where alumni-owned businesses and professionals post jobs or find talent within the community.
+Impact Tracker:
+
+Real-time dashboards showing the collective impact of alumni contributions in terms of funds raised, scholarships supported, and projects completed.
+AI-Powered Networking:
+
+Suggest alumni connections based on career fields, interests, or mutual connections for tailored mentorship and collaboration opportunities.
+Time Capsule Stories:
+
+Alumni can upload their favorite memories and milestones, creating a shared, evolving narrative of the college's history.
+Live Engagement Hub:
+
+Live-stream alumni events, Q&A sessions with notable alumni, and interactive webinars for professional development.
+
+eb-905f-a8a44d95ebc4)
+
 
 ## Proposed Solution / Architecture Diagram
 
-
+![Proposed-solution-architecture-depicting-the-steps-required-to-transform-a-web](https://github.com/user-attachments/assets/9d48c3c1-d72e-49
 ## Use Cases
 
+1. Alumni Use Cases
+2. Institution/Administrator Use Cases
+3. Current Student Use Cases
+4.  Recruiter Use Cases
 
+ ![d7eb453fc1d74a74c809b3e219acbc6e](https://github.com/user-attachments/assets/a2ae7d16-b488-4d04-91c9-fa19f9752f2a)
 ## Technology Stack
 
+Here’s a proposed technology stack for building the Alumni Association platform, ensuring scalability, performance, and security for both web and mobile applications:
+
+Frontend:-
+1. Web Application
+2. Mobile Application
+
+Backend:-
+1.Frameworks
+2.Authentication
+3.Storage
+4.Payment Processing
+
+Hosting and Infrastructure:-
+Cloud Hosting: AWS, Google Cloud Platform (GCP), or Microsoft Azure
+Containerization: Docker for deploying backend services
+Orchestration: Kubernetes for scaling microservices
+Content Delivery Network (CDN): Cloudflare or AWS CloudFront for faster content delivery
 
 ## Dependencies
 
+Mapping service- 15 days
+Data collection- 10 days
+budget- rs.60,000
